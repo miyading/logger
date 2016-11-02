@@ -57,6 +57,7 @@ Temporary Items
 
 /*.iml
 pom.xml
+logfile.log
 
 ## Directory-based project format:
 .idea/
